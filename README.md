@@ -15,7 +15,7 @@ Busco uma alocação profissional na área de desenvolvimento para aplicar os co
 
 ### 🎓 Formação e Foco
 
-* **Formação:** [Sua Formação aqui, conforme o portfólio].
+* **Formação Principal:** Curso Técnico em Desenvolvimento de Sistemas - Senac (Gama).
 * **Habilidades Core:** Proficiência em **Java, Spring Boot e Spring Security**, focada na construção de Back-end escalável e seguro.
 * **Desenvolvimento Web:** Experiência com **HTML, CSS e JavaScript** para criar interfaces web.
 * **Foco:** Interesse em design de software, segurança e microsserviços.
