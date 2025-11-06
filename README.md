@@ -38,7 +38,7 @@ Busco uma alocação profissional na área de desenvolvimento para aplicar os co
 
 ---
 
-## 📂 Projetos em Destaque (Pinned)
+## 📂 Projetos em Destaque 
 
 Estes são alguns dos meus projetos fixados, que demonstram minhas habilidades de desenvolvimento:
 
