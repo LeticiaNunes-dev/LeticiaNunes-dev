@@ -4,14 +4,14 @@
 
 <div align="center">
   <h1>👋 Olá! Eu sou a Letícia Nunes</h1>
-  <h2>💻 Desenvolvedora Full-Stack em Formação</h2>
+  <h2>💻 Desenvolvedora Full-Stack em Formação | Foco em Back-end</h2>
 </div>
 
 ---
 
 ## 💻 Sobre Mim
 
-Busco uma alocação profissional na área de desenvolvimento para aplicar os conhecimentos adquiridos em lógica de programação, banco de dados, design e segurança. Tenho facilidade em pesquisar, procurar soluções e me aprofundar em novas tecnologias.
+Sou uma Desenvolvedora Full-Stack com **forte preferência e dedicação ao Back-end**. Busco uma alocação profissional na área para aplicar meus conhecimentos em lógica de programação, banco de dados e segurança, com ênfase na construção de APIs e sistemas robustos.
 
 ### 🎓 Formação e Foco
 
