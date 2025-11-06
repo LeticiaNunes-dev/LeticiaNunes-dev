@@ -29,7 +29,7 @@ Busco uma alocação profissional na área de desenvolvimento para aplicar os co
 
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="MongoDB, MySQL, PostgreSQL" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,h2" alt="MongoDB, MySQL, H2" height="40"/>
 
   <br/>
 
@@ -47,14 +47,6 @@ Estes são alguns dos meus projetos fixados, que demonstram minhas habilidades d
 | **PadariaCadastroMongodb** | Aplicação Full-Stack com Back-end em **Spring Boot** e **MongoDB**. | `Java` `Spring Boot` `MongoDB` |
 | **JogoDama** | Projeto de lógica de programação e interface. | `JavaScript` `HTML` `CSS` |
 | **[Nome do 3º Projeto]** | [Breve descrição do foco. Ex: Interface web responsiva] | `[Tecnologia]` `[Tecnologia]` |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  [![Estatísticas do perfil da Leticia](https://github-readme-stats.vercel.app/api?username=LeticiaNunes-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt_BR)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ---
 
