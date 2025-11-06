@@ -45,7 +45,6 @@ Estes são alguns dos meus projetos fixados, que demonstram minhas habilidades d
 | Projeto | Foco Principal | Tecnologias Chave |
 | :---: | :--- | :--- |
 | **PadariaCadastroMongodb** | Aplicação Full-Stack com Back-end em **Spring Boot** e **MongoDB**. | `Java` `Spring Boot` `MongoDB` |
-| **JogoDama** | Projeto de lógica de programação e interface. | `JavaScript` `HTML` `CSS` |
 | **springMongoDB** | Projeto de demonstração para uma API RESTful completa | `Java` `Spring Boot` `MongoDB` |
 
 ---
