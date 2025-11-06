@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Olá! Eu sou Letícia Nunes da Silva</h1>
+  <h1>👋 Olá! Eu sou a Letícia Nunes</h1>
   <h2>💻 Desenvolvedora Full-Stack em Formação</h2>
 </div>
 
@@ -46,7 +46,7 @@ Estes são alguns dos meus projetos fixados, que demonstram minhas habilidades d
 | :---: | :--- | :--- |
 | **PadariaCadastroMongodb** | Aplicação Full-Stack com Back-end em **Spring Boot** e **MongoDB**. | `Java` `Spring Boot` `MongoDB` |
 | **JogoDama** | Projeto de lógica de programação e interface. | `JavaScript` `HTML` `CSS` |
-| **[Nome do 3º Projeto]** | [Breve descrição do foco. Ex: Interface web responsiva] | `[Tecnologia]` `[Tecnologia]` |
+| **springMongoDB** | Projeto de demonstração para uma API RESTful completa | `Java` `Spring Boot` `MongoDB` |
 
 ---
 
