@@ -55,8 +55,7 @@ Estes são alguns dos meus projetos fixados, que demonstram minhas habilidades d
 Entre em contato:
 
 <p align="center">
-  <a href="Leticia Nunes <lelelilivivi2000@gmail.com>
-" target="_blank">
+  <a href="lelelilivivi2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/leticia-nunes-9b0685386/" target="_blank">
